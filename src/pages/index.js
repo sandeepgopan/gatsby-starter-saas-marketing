@@ -13,6 +13,7 @@ import Footer from "../components/sections/footer"
 import GetStarted from "../components/sections/getstarted"
 
 const IndexPage = () => (
+  <meta name="google-site-verification" content="goWzYYcBCfSlzMWs4fCzwzi9e-Dx2DulkcXRFYP5N-4" />
   <Layout>
     <SEO title="Home" />
     <Navigation />
